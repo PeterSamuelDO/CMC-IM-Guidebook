@@ -1,4 +1,4 @@
-## Welcome!
+## Welcome
 
 This website aims to serve the budding intern or seasoned senior resident in all things internal medicine. Please feel free to send contributions me directly.
 
