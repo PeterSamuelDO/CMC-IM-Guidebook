@@ -1,4 +1,11 @@
-## Welcome
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Home page for website"
+permalink: /
+---
+##Welcome
 
 This website aims to serve the budding intern or seasoned senior resident in all things internal medicine. Please feel free to send contributions me directly.
 
