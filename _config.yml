@@ -6,3 +6,7 @@ remote_theme: just-the-docs/just-the-docs
 #
 # Supports true (default) or false
 heading_anchors: true
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
