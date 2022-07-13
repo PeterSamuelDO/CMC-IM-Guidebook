@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to the CMC IM Guidebook
 
-You can use the [editor on GitHub](https://github.com/PeterSamuelDO/cmcim.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This website aims to serve the budding intern or seasoned senior resident in all things internal medicine. Please feel free to send contributions me directly.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
